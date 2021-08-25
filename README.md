@@ -1,4 +1,4 @@
-# SubSeekQl
+# SubSeekQL
 
 The goal of this gem is to provide a set of query methods for performing sub queries in Ruby on Rails applications. It is in the beginning stage and will surely be an ongoing work in progress. Contributions welcome!
 
