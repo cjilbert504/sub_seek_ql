@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Methods for doing sub queries with ActiveRecord.}
   spec.description   = %q{Methods for doing sub queries with ActiveRecord. Built so that you don't have to write raw SQL, but you should learn SQL anyway so that you understand what's going on.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/cjilbert504/sub_seek_ql"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
