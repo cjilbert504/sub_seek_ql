@@ -1,8 +1,6 @@
 # SubSeekQl
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/sub_seek_ql`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+The goal of this gem is to provide a set of query methods for performing sub queries. It is in the beginning stage and will surely be an ongoing work in progress. Contributions welcome!
 
 ## Installation
 
@@ -32,7 +30,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/sub_seek_ql.
+Bug reports and pull requests are welcome on GitHub at https://github.com/cjilbert504/sub_seek_ql.
 
 
 ## License
